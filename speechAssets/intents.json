@@ -1,0 +1,11 @@
+{
+  "intents": [
+    {
+      "intent": "TestIntent",
+      "slots": [{
+        "name": "child",
+        "type": "LIST_OF_KIDS"
+      }]
+    }
+  ]
+}

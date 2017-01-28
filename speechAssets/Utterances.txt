@@ -1,0 +1,3 @@
+TestIntent put {child} in timeout
+TestIntent give {child} a timeout
+TestIntent tell {child} to go to their room
